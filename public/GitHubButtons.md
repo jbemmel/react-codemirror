@@ -1,11 +1,11 @@
 # Github supports buttons natively now...
 
 ```
-Plain code block without language: not
+Plain code block without language: works
 ```
 
 ```yang
-But YANG: Yes
+YANG: Yes
 ```
 
 ## Markdown
